@@ -1,0 +1,23 @@
+{
+  "name": "hn-bootstrap-plugin",
+  "version": "1.0.0",
+  "description": "webpack things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HourlyNerd/hn-bootstrap-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HourlyNerd/hn-bootstrap-plugin/issues"
+  },
+  "homepage": "https://github.com/HourlyNerd/hn-bootstrap-plugin",
+  "devDependencies": {
+    "bluebird": "^2.10.2",
+    "lodash": "^3.10.1"
+  }
+}
