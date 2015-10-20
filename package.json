@@ -1,6 +1,6 @@
 {
   "name": "hn-bootstrap-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "webpack things",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "url": "https://github.com/HourlyNerd/hn-bootstrap-plugin/issues"
   },
   "homepage": "https://github.com/HourlyNerd/hn-bootstrap-plugin",
-  "devDependencies": {
+  "dependencies": {
     "bluebird": "^2.10.2",
     "lodash": "^3.10.1"
   }
