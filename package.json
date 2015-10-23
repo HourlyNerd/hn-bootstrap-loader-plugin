@@ -1,6 +1,6 @@
 {
   "name": "hn-bootstrap-plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "webpack things",
   "main": "index.js",
   "scripts": {
